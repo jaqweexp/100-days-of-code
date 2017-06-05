@@ -9,7 +9,7 @@
 **Link(s) to work**: [jsPDF](https://parall.ax/products/jspdf)
 
 
-### Day 2: February 30, 2016 (Example 2)
+### Day 2: June 4, 2017 
 
 **Today's Progress**: Started working on more simple projects, starting with a slideshow.
 
@@ -17,4 +17,12 @@
 
 **Link(s) to work**: [Resouces Used](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 
+
+### Day 3: June 5, 2017 
+
+**Today's Progress**: Continued to work on slideshow.
+
+**Thoughts**: Getting the js in there to turn it into a slideshow, keep getting an error. Going to fix that tomorrow and style it. slow progress today.
+
+**Link(s) to work**: [Resouces Used](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 
