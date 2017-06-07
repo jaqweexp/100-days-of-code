@@ -26,3 +26,10 @@
 
 **Link(s) to work**: [Resouces Used](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 
+### Day 4: June 5, 2017 
+
+**Today's Progress**: Continued to work on slideshow. A bit buggy
+
+**Thoughts**: Fixing slideshow bug, 2 hours logged
+
+**Link(s) to work**: [Resouces Used](https://www.w3schools.com/howto/howto_js_slideshow.asp)
