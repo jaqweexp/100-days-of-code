@@ -26,10 +26,18 @@
 
 **Link(s) to work**: [Resouces Used](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 
-### Day 4: June 5, 2017 
+### Day 4: June 6, 2017 
 
 **Today's Progress**: Continued to work on slideshow. A bit buggy
 
 **Thoughts**: Fixing slideshow bug, 2 hours logged
 
 **Link(s) to work**: [Resouces Used](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+
+### Day 5: June 7, 2017 
+
+**Today's Progress**: Still can't get the javascript to work, going to switch to a jquery solution
+
+**Thoughts**: The javascript is over complicated for no reason, this can definitely be achevied with jquery, much more simple
+
+**Link(s) to work**: [Resouces Used](https://www.youtube.com/watch?v=KkzVFB3Ba_o)
