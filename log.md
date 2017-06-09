@@ -41,3 +41,12 @@
 **Thoughts**: The javascript is over complicated for no reason, this can definitely be achevied with jquery, much more simple
 
 **Link(s) to work**: [Resouces Used](https://www.youtube.com/watch?v=KkzVFB3Ba_o)
+
+### Day 6: June 8, 2017 
+
+**Today's Progress**: OMG YES! it worked, used jquery instead of javascript for the slider, did the trick :D
+
+**Thoughts**: WHEE!
+
+**Link(s) to work**: [Resouces Used](https://www.youtube.com/watch?v=KkzVFB3Ba_o)
+
