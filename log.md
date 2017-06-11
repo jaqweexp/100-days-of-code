@@ -50,3 +50,27 @@
 
 **Link(s) to work**: [Resouces Used](https://www.youtube.com/watch?v=KkzVFB3Ba_o)
 
+### Day 7: June 9, 2017 
+
+**Today's Progress**: New Project, how many vowels you got! 
+
+**Thoughts**: On the plane to a weekend get away in Denver. Having Alice help and ask the right questions were super helpful! Don't be afraid to ask for help!
+
+**Link(s) to work**: [Resouces Used](Alice)
+
+
+### Day 8: June 10, 2017 
+
+**Today's Progress**: New Project, how many vowels you got! 
+
+**Thoughts**: Morning before heading out, get a little in. 
+**Link(s) to work**: [Resouces Used](Alice)
+
+### Day 8: June 11, 2017 
+
+**Today's Progress**: How many vowels you got, Done!!!
+
+**Thoughts**: On the morning before heading out, feeling victorious!
+
+**Link(s) to work**: [Resouces Used](https://stackoverflow.com/questions/2903542/javascript-how-many-times-a-character-occurs-in-a-string)
+
