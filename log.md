@@ -74,3 +74,21 @@
 
 **Link(s) to work**: [Resouces Used](https://stackoverflow.com/questions/2903542/javascript-how-many-times-a-character-occurs-in-a-string)
 
+### Day 9: June 12, 2017 
+
+**Today's Progress**: Cleaning up vowel project
+
+**Thoughts**: Don't want no nasty codes. Crazy how long it took and end up with just a few lines of code.
+
+**Link(s) to work**: [Resouces Used](Alice)
+
+### Day 10: June 13, 2017 
+
+**Today's Progress**: Starting new project - check weather. Learning how to use API
+
+**Thoughts**: hope I'm not jumping the gun again
+
+**Link(s) to work**: [Resouces Used](https://www.codecademy.com/en/courses/javascript-beginner-en-EID4t/1/3?curriculum_id=5122e50456ef4d6c450008c1)
+
+
+
