@@ -90,5 +90,13 @@
 
 **Link(s) to work**: [Resouces Used](https://www.codecademy.com/en/courses/javascript-beginner-en-EID4t/1/3?curriculum_id=5122e50456ef4d6c450008c1)
 
+### Day 11: June 14, 2017 
+
+**Today's Progress**: Continued to work on weather API, I was able to hit the API and retreive city name based on zip code
+
+**Thoughts**: Need to refresh my jQuery
+
+**Link(s) to work**: [Resouces Used](https://www.codecademy.com/en/courses/javascript-beginner-en-EID4t/1/3?curriculum_id=5122e50456ef4d6c450008c1)
+
 
 
