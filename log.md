@@ -24,7 +24,7 @@
 
 **Thoughts**: Getting the js in there to turn it into a slideshow, keep getting an error. Going to fix that tomorrow and style it. slow progress today.
 
-**Link(s) to work**: [Resouces Used](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+**Link(s) to work**: [Resources Used](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 
 ### Day 4: June 6, 2017 
 
@@ -32,7 +32,7 @@
 
 **Thoughts**: Fixing slideshow bug, 2 hours logged
 
-**Link(s) to work**: [Resouces Used](https://www.w3schools.com/howto/howto_js_slideshow.asp)
+**Link(s) to work**: [Resources Used](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 
 ### Day 5: June 7, 2017 
 
@@ -40,7 +40,7 @@
 
 **Thoughts**: The javascript is over complicated for no reason, this can definitely be achevied with jquery, much more simple
 
-**Link(s) to work**: [Resouces Used](https://www.youtube.com/watch?v=KkzVFB3Ba_o)
+**Link(s) to work**: [Resources Used](https://www.youtube.com/watch?v=KkzVFB3Ba_o)
 
 ### Day 6: June 8, 2017 
 
@@ -48,7 +48,7 @@
 
 **Thoughts**: WHEE!
 
-**Link(s) to work**: [Resouces Used](https://www.youtube.com/watch?v=KkzVFB3Ba_o)
+**Link(s) to work**: [Resources Used](https://www.youtube.com/watch?v=KkzVFB3Ba_o)
 
 ### Day 7: June 9, 2017 
 
@@ -56,7 +56,7 @@
 
 **Thoughts**: On the plane to a weekend get away in Denver. Having Alice help and ask the right questions were super helpful! Don't be afraid to ask for help!
 
-**Link(s) to work**: [Resouces Used](Alice)
+**Link(s) to work**: [Resources Used](Alice)
 
 
 ### Day 8: June 10, 2017 
@@ -64,7 +64,7 @@
 **Today's Progress**: New Project, how many vowels you got! 
 
 **Thoughts**: Morning before heading out, get a little in. 
-**Link(s) to work**: [Resouces Used](Alice)
+**Link(s) to work**: [Resources Used](Alice)
 
 ### Day 8: June 11, 2017 
 
@@ -72,7 +72,7 @@
 
 **Thoughts**: On the morning before heading out, feeling victorious!
 
-**Link(s) to work**: [Resouces Used](https://stackoverflow.com/questions/2903542/javascript-how-many-times-a-character-occurs-in-a-string)
+**Link(s) to work**: [Resources Used](https://stackoverflow.com/questions/2903542/javascript-how-many-times-a-character-occurs-in-a-string)
 
 ### Day 9: June 12, 2017 
 
@@ -80,7 +80,7 @@
 
 **Thoughts**: Don't want no nasty codes. Crazy how long it took and end up with just a few lines of code.
 
-**Link(s) to work**: [Resouces Used](Alice)
+**Link(s) to work**: [Resources Used](Alice)
 
 ### Day 10: June 13, 2017 
 
@@ -88,7 +88,7 @@
 
 **Thoughts**: hope I'm not jumping the gun again
 
-**Link(s) to work**: [Resouces Used](https://www.codecademy.com/en/courses/javascript-beginner-en-EID4t/1/3?curriculum_id=5122e50456ef4d6c450008c1)
+**Link(s) to work**: [Resources Used](https://www.codecademy.com/en/courses/javascript-beginner-en-EID4t/1/3?curriculum_id=5122e50456ef4d6c450008c1)
 
 ### Day 11: June 14, 2017 
 
@@ -96,15 +96,15 @@
 
 **Thoughts**: Need to refresh my jQuery
 
-**Link(s) to work**: [Resouces Used](https://www.codecademy.com/en/courses/javascript-beginner-en-EID4t/1/3?curriculum_id=5122e50456ef4d6c450008c1)
+**Link(s) to work**: [Resources Used](https://www.codecademy.com/en/courses/javascript-beginner-en-EID4t/1/3?curriculum_id=5122e50456ef4d6c450008c1)
 
-### Day 11: June 15, 2017 
+### Day 12: June 15, 2017 
 
 **Today's Progress**: Hit the API, got the forecast!! 
 
 **Thoughts**: Was a little frustrated trying to find answers online and getting help from people, but in the end, it's always a good feeling!
 
-**Link(s) to work**: [Resouces Used]()
+**Link(s) to work**: [Resources Used]()
 
 
 
