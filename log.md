@@ -98,5 +98,13 @@
 
 **Link(s) to work**: [Resouces Used](https://www.codecademy.com/en/courses/javascript-beginner-en-EID4t/1/3?curriculum_id=5122e50456ef4d6c450008c1)
 
+### Day 11: June 15, 2017 
+
+**Today's Progress**: Hit the API, got the forecast!! 
+
+**Thoughts**: Was a little frustrated trying to find answers online and getting help from people, but in the end, it's always a good feeling!
+
+**Link(s) to work**: [Resouces Used]()
+
 
 
