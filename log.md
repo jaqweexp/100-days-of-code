@@ -106,5 +106,13 @@
 
 **Link(s) to work**: [Resources Used]()
 
+### Day 14: June 17, 2017 
+
+**Today's Progress**: Was able to show result on html instead of an alert, tried to use typed.js
+
+**Thoughts**: Not sure how I got this working last time when I didn't know anything about javascript. maybe i'm over thinking it? 
+
+**Link(s) to work**: [Resources Used](http://www.mattboldt.com/demos/typed-js/)
+
 
 
