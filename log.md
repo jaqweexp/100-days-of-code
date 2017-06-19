@@ -114,5 +114,12 @@
 
 **Link(s) to work**: [Resources Used](http://www.mattboldt.com/demos/typed-js/)
 
+### Day 15: June 17, 2017 
+
+**Today's Progress**: Decided to start a new project, hipster logo generator
+
+**Thoughts**: Going to start tomorrow! 
+
+
 
 
