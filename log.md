@@ -80,7 +80,8 @@
 
 **Thoughts**: Don't want no nasty codes. Crazy how long it took and end up with just a few lines of code.
 
-**Link(s) to work**: [Resources Used](Alice)
+**Link(s) to work**: [Project Link](https://codepen.io/jaqweexp/pen/KqgPjd)
+
 
 ### Day 10: June 13, 2017 
 
@@ -112,13 +113,62 @@
 
 **Thoughts**: Not sure how I got this working last time when I didn't know anything about javascript. maybe i'm over thinking it? 
 
-**Link(s) to work**: [Resources Used](http://www.mattboldt.com/demos/typed-js/)
+**Link(s) to work**: [Project Link](https://codepen.io/jaqweexp/pen/awmryN)
 
-### Day 15: June 17, 2017 
+### Day 15: June 19, 2017 
 
 **Today's Progress**: Decided to start a new project, hipster logo generator
 
 **Thoughts**: Going to start tomorrow! 
+
+### Day 16: June 20, 2017 
+
+**Today's Progress**: still working on minimal logo generator
+
+**Thoughts**: great start using the last project as the frame work.
+
+### Day 17: June 21, 2017 
+
+**Today's Progress**: still working on minimal logo generator
+
+**Thoughts**: Was stuck for half of the time, turns out I was missing () from .value. There goes half an hour!
+
+### Day 18: June 28, 2017 
+
+**Today's Progress**: logo generator official works!! next step, render to canvas and download
+
+**Thoughts**: Woohoo!
+
+### Day 19: June 29, 2017 
+
+**Today's Progress**: trying to get html2canvas to work
+
+**Thoughts**: Slowly getting there
+
+
+### Day 20: June 30, 2017 
+
+**Today's Progress**: html2canvas works! but image is blurry and is only appending
+
+**Thoughts**: Slowly getting there....
+
+### Day 21: July 4, 2017 
+
+**Today's Progress**: html2canvas works! but image is blurry and is only appending
+
+**Thoughts**: Slowly getting there...........
+
+### Day 22: July 6, 2017 
+
+**Today's Progress**: html2canvas works, image is still blurry, but no longer just appending (hint: .html)
+
+**Thoughts**: Slowly getting there.................
+
+
+
+
+
+
 
 
 
