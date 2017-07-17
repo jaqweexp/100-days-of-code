@@ -164,6 +164,18 @@
 
 **Thoughts**: Slowly getting there.................
 
+### Day 23: July 14, 2017 
+
+**Today's Progress**: Planning new project
+
+**Thoughts**: Podcast Commute
+
+
+### Day 24: July 17, 2017 
+
+**Today's Progress**: Moved on to new project for now, commute podcast: audiosear.ch API + durtion picker jquery
+
+**Thoughts**: Always pumped to start a new project
 
 
 
