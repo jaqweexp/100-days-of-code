@@ -177,6 +177,13 @@
 
 **Thoughts**: Always pumped to start a new project
 
+### Day 25: July 18, 2017 
+
+**Today's Progress**: Made pretty good progress on the frontend of commute podcast
+
+
+
+
 
 
 
