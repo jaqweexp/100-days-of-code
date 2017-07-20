@@ -182,6 +182,11 @@
 **Today's Progress**: Made pretty good progress on the frontend of commute podcast
 
 
+### Day 26: July 119, 2017 
+
+**Today's Progress**: worked on front-end today. instead of a multi select dropdown w/ checkboxes, what is another option?
+
+
 
 
 
