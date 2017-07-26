@@ -182,10 +182,21 @@
 **Today's Progress**: Made pretty good progress on the frontend of commute podcast
 
 
-### Day 26: July 119, 2017 
+### Day 26: July 19, 2017 
 
 **Today's Progress**: worked on front-end today. instead of a multi select dropdown w/ checkboxes, what is another option?
 
+### Day 27: July 21, 2017 
+
+**Today's Progress**:looking into audiosearchfm's API
+
+### Day 28: July 24, 2017 
+
+**Today's Progress**: continue to look into audiosearch's API
+
+### Day 29: July 26, 2017 
+
+**Today's Progress**: was able to hit the audiosearch's API with some help (thank you!)
 
 
 
