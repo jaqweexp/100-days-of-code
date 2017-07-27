@@ -11,7 +11,7 @@
 
 ### Day 2: June 4, 2017 
 
-**Today's Progress**: Started working on more simple projects, starting with a slideshow.
+**Today's Progress**: Slideshow - Started working on more simple projects, starting with a slideshow.
 
 **Thoughts**: Feeling a lot better! Still just doing the basics, but feel like this is a good start in building a good foudation. Made decent progress on remembering everything. Excited to turn the bad boys into a slideshow and style it tomorrow.
 
@@ -20,7 +20,7 @@
 
 ### Day 3: June 5, 2017 
 
-**Today's Progress**: Continued to work on slideshow.
+**Today's Progress**: Slideshow - Continued to work on slideshow.
 
 **Thoughts**: Getting the js in there to turn it into a slideshow, keep getting an error. Going to fix that tomorrow and style it. slow progress today.
 
@@ -28,7 +28,7 @@
 
 ### Day 4: June 6, 2017 
 
-**Today's Progress**: Continued to work on slideshow. A bit buggy
+**Today's Progress**: Slideshow - Continued to work on slideshow. A bit buggy
 
 **Thoughts**: Fixing slideshow bug, 2 hours logged
 
@@ -36,7 +36,7 @@
 
 ### Day 5: June 7, 2017 
 
-**Today's Progress**: Still can't get the javascript to work, going to switch to a jquery solution
+**Today's Progress**: Slideshow - Still can't get the javascript to work, going to switch to a jquery solution
 
 **Thoughts**: The javascript is over complicated for no reason, this can definitely be achevied with jquery, much more simple
 
@@ -44,7 +44,7 @@
 
 ### Day 6: June 8, 2017 
 
-**Today's Progress**: OMG YES! it worked, used jquery instead of javascript for the slider, did the trick :D
+**Today's Progress**: Slideshow - OMG YES! it worked, used jquery instead of javascript for the slider, did the trick :D
 
 **Thoughts**: WHEE!
 
@@ -52,7 +52,7 @@
 
 ### Day 7: June 9, 2017 
 
-**Today's Progress**: New Project, how many vowels you got! 
+**Today's Progress**: Check Vowels - New Project, how many vowels you got! 
 
 **Thoughts**: On the plane to a weekend get away in Denver. Having Alice help and ask the right questions were super helpful! Don't be afraid to ask for help!
 
@@ -61,14 +61,14 @@
 
 ### Day 8: June 10, 2017 
 
-**Today's Progress**: New Project, how many vowels you got! 
+**Today's Progress**: Check Vowels - New Project, how many vowels you got! 
 
 **Thoughts**: Morning before heading out, get a little in. 
 **Link(s) to work**: [Resources Used](Alice)
 
 ### Day 8: June 11, 2017 
 
-**Today's Progress**: How many vowels you got, Done!!!
+**Today's Progress**: Check Vowels - How many vowels you got, Done!!!
 
 **Thoughts**: On the morning before heading out, feeling victorious!
 
@@ -76,7 +76,7 @@
 
 ### Day 9: June 12, 2017 
 
-**Today's Progress**: Cleaning up vowel project
+**Today's Progress**: Check Vowels - Cleaning up vowel project
 
 **Thoughts**: Don't want no nasty codes. Crazy how long it took and end up with just a few lines of code.
 
@@ -85,7 +85,7 @@
 
 ### Day 10: June 13, 2017 
 
-**Today's Progress**: Starting new project - check weather. Learning how to use API
+**Today's Progress**: Check Weater - Starting new project - check weather. Learning how to use API
 
 **Thoughts**: hope I'm not jumping the gun again
 
@@ -93,7 +93,7 @@
 
 ### Day 11: June 14, 2017 
 
-**Today's Progress**: Continued to work on weather API, I was able to hit the API and retreive city name based on zip code
+**Today's Progress**: Check Weater - Continued to work on weather API, I was able to hit the API and retreive city name based on zip code
 
 **Thoughts**: Need to refresh my jQuery
 
@@ -101,7 +101,7 @@
 
 ### Day 12: June 15, 2017 
 
-**Today's Progress**: Hit the API, got the forecast!! 
+**Today's Progress**: Check Weater - Hit the API, got the forecast!! 
 
 **Thoughts**: Was a little frustrated trying to find answers online and getting help from people, but in the end, it's always a good feeling!
 
@@ -109,7 +109,7 @@
 
 ### Day 14: June 17, 2017 
 
-**Today's Progress**: Was able to show result on html instead of an alert, tried to use typed.js
+**Today's Progress**: Check Weater - Was able to show result on html instead of an alert, tried to use typed.js
 
 **Thoughts**: Not sure how I got this working last time when I didn't know anything about javascript. maybe i'm over thinking it? 
 
@@ -117,86 +117,91 @@
 
 ### Day 15: June 19, 2017 
 
-**Today's Progress**: Decided to start a new project, hipster logo generator
+**Today's Progress**: Logo Generator - Decided to start a new project, hipster logo generator
 
 **Thoughts**: Going to start tomorrow! 
 
 ### Day 16: June 20, 2017 
 
-**Today's Progress**: still working on minimal logo generator
+**Today's Progress**: Logo Generator - still working on minimal logo generator
 
 **Thoughts**: great start using the last project as the frame work.
 
 ### Day 17: June 21, 2017 
 
-**Today's Progress**: still working on minimal logo generator
+**Today's Progress**: Logo Generator - still working on minimal logo generator
 
 **Thoughts**: Was stuck for half of the time, turns out I was missing () from .value. There goes half an hour!
 
 ### Day 18: June 28, 2017 
 
-**Today's Progress**: logo generator official works!! next step, render to canvas and download
+**Today's Progress**: Logo Generator - logo generator official works!! next step, render to canvas and download
 
 **Thoughts**: Woohoo!
 
 ### Day 19: June 29, 2017 
 
-**Today's Progress**: trying to get html2canvas to work
+**Today's Progress**: Logo Generator - trying to get html2canvas to work
 
 **Thoughts**: Slowly getting there
 
 
 ### Day 20: June 30, 2017 
 
-**Today's Progress**: html2canvas works! but image is blurry and is only appending
+**Today's Progress**: Logo Generator - html2canvas works! but image is blurry and is only appending
 
 **Thoughts**: Slowly getting there....
 
 ### Day 21: July 4, 2017 
 
-**Today's Progress**: html2canvas works! but image is blurry and is only appending
+**Today's Progress**: Logo Generator - html2canvas works! but image is blurry and is only appending
 
 **Thoughts**: Slowly getting there...........
 
 ### Day 22: July 6, 2017 
 
-**Today's Progress**: html2canvas works, image is still blurry, but no longer just appending (hint: .html)
+**Today's Progress**: Logo Generator - html2canvas works, image is still blurry, but no longer just appending (hint: .html)
 
 **Thoughts**: Slowly getting there.................
 
 ### Day 23: July 14, 2017 
 
-**Today's Progress**: Planning new project
+**Today's Progress**: Planning new project, design
 
 **Thoughts**: Podcast Commute
 
 
 ### Day 24: July 17, 2017 
 
-**Today's Progress**: Moved on to new project for now, commute podcast: audiosear.ch API + durtion picker jquery
+**Today's Progress**: Commuter Podcast- Moved on to new project for now, commute podcast: audiosear.ch API + durtion picker jquery
 
 **Thoughts**: Always pumped to start a new project
 
 ### Day 25: July 18, 2017 
 
-**Today's Progress**: Made pretty good progress on the frontend of commute podcast
+**Today's Progress**: Commuter Podcast- Made pretty good progress on the frontend of commute podcast
 
 
 ### Day 26: July 19, 2017 
 
-**Today's Progress**: worked on front-end today. instead of a multi select dropdown w/ checkboxes, what is another option?
+**Today's Progress**: Commuter Podcast- worked on front-end today. instead of a multi select dropdown w/ checkboxes, what is another option?
 
 ### Day 27: July 21, 2017 
 
-**Today's Progress**:looking into audiosearchfm's API
+**Today's Progress**: Commuter Podcast- looking into audiosearchfm's API
 
 ### Day 28: July 24, 2017 
 
-**Today's Progress**: continue to look into audiosearch's API
+**Today's Progress**: Commuter Podcast- continue to look into audiosearch's API
 
 ### Day 29: July 26, 2017 
 
-**Today's Progress**: was able to hit the audiosearch's API with some help (thank you!)
+**Today's Progress**: Commuter Podcast- was able to hit the audiosearch's API with some help (thank you!)
+
+
+### Day 30: July 26, 2017 
+
+**Today's Progress**: Commuter Podcast- Changed the drop-down to filter buttons. c
 
 
 
