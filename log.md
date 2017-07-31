@@ -201,7 +201,12 @@
 
 ### Day 30: July 26, 2017 
 
-**Today's Progress**: Commuter Podcast- Changed the drop-down to filter buttons. c
+**Today's Progress**: Commuter Podcast- Changed the drop-down to filter buttons. 
+
+### Day 31: July 31, 2017 
+
+**Today's Progress**: Looping through JSON Data to Generate HTML, super close.
+
 
 
 
