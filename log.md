@@ -207,6 +207,16 @@
 
 **Today's Progress**: Looping through JSON Data to Generate HTML, super close.
 
+### Day 32: August 1, 2017 
+
+**Today's Progress**: And the categories are in!! with @audiosearchfm API. this UX with all these categories though.
+
+### Day 33: August 2, 2017 
+
+**Today's Progress**: Added listener today. Grouping category arrays tomorrow! 
+
+
+
 
 
 
