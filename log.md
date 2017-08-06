@@ -215,6 +215,10 @@
 
 **Today's Progress**: Added listener today. Grouping category arrays tomorrow! 
 
+### Day 34: August 6, 2017 
+
+**Today's Progress**: Woke up extra early to squeeze an hour in before all the family shenanigans. Put the broad categories in an array, adding values next.
+
 
 
 
