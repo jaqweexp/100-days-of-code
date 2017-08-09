@@ -219,8 +219,9 @@
 
 **Today's Progress**: Woke up extra early to squeeze an hour in before all the family shenanigans. Put the broad categories in an array, adding values next.
 
+### Day 35: August 9, 2017 
 
-
+**Today's Progress**: Done with categories. 
 
 
 
