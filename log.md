@@ -224,6 +224,36 @@
 **Today's Progress**: Done with categories. 
 
 
+### Day 36: August 10, 2017 
+
+**Today's Progress**: worked on a simple html/css page for client
+
+
+### Day 37: August 11, 2017 
+
+**Today's Progress**: worked on a simple html/css page for client
+
+
+### Day 38: August 12, 2017 
+
+**Today's Progress**: 🚘 continuing commute podcast 🚘
+
+### Day 39: August 13, 2017 
+
+**Today's Progress**: styling select with jquery plugin because... 🙈
+
+### Day 40: August 14, 2017 
+
+**Today's Progress**:  got rid of combodate.js, using a simple number input instead😌
+
+### Day 41: August 15, 2017 
+
+**Today's Progress**: feeling good~~
+
+### Day 42: August 16, 2017 
+
+**Today's Progress**: still on commute podcast: API 401 error 🤔
+
 
 
 
