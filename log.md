@@ -234,26 +234,33 @@
 **Today's Progress**: worked on a simple html/css page for client
 
 
-### Day 38: August 12, 2017 
+### Day 38: August 15, 2017 
 
 **Today's Progress**: 🚘 continuing commute podcast 🚘
 
-### Day 39: August 13, 2017 
+### Day 39: August 16, 2017 
 
 **Today's Progress**: styling select with jquery plugin because... 🙈
 
-### Day 40: August 14, 2017 
+### Day 40: August 17, 2017 
 
 **Today's Progress**:  got rid of combodate.js, using a simple number input instead😌
 
-### Day 41: August 15, 2017 
+### Day 41: August 22, 2017 
 
 **Today's Progress**: feeling good~~
 
-### Day 42: August 16, 2017 
+### Day 42: August 28, 2017 
 
 **Today's Progress**: still on commute podcast: API 401 error 🤔
 
+### Day 43: August 30, 2017 
+
+**Today's Progress**: Still trying to figure out that API error, emailed them about it, better luck tomorrow 🙏🏻
+
+### Day 44: September 9, 2017 
+
+**Today's Progress**: API error sovled, couldn't get it to work on client side, had to restruture the project with node to use the API properly 
 
 
 
